@@ -6,8 +6,10 @@
 package pboif2.pkg10119084.latihan50.energikinetik;
 
 /**
- *
- * @author MERDEFI
+Nama : Muhammad Idris Merdefi
+Kelas : PBOIF2
+NIM : 10119084
+Deskripsi Program : Program ini berisi program untuk menampilkan perhitungan energi kinetik
  */
 public class PBOIF210119084Latihan50EnergiKinetik {
 
